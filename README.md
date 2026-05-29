@@ -1,9 +1,6 @@
 ## Ethan Lawinsky
 
-Engineer building production data, trading, and simulation tooling — full-stack,
-with a focus on real-time systems and statistical rigor. Previously designed
-merchant-payment processing solutions for businesses handling $30M+ in
-annual volume. I architect and ship using agentic coding workflows (Claude Code).
+I build to unlock capability. Start with a need and I plan out what it takes to create a resolution. I work to keep things simple without compromising the standard. My projects span real-time data, trading, and simulation systems, built full-stack using agentic coding workflows (Claude Code).
 
 **Stack:** Python · JavaScript/TypeScript · Node.js · FastAPI · WebSockets ·
 PostgreSQL · MongoDB · Godot/GDScript · Linux/Ubuntu · pandas/parquet ·
