@@ -1,10 +1,13 @@
 ## Ethan Lawinsky
 
-I build to unlock capability. Start with a need, then I plan out what it takes to create a resolution. I work to keep things simple without compromising the standard. My projects span real-time data, trading, and simulation systems, built full-stack using agentic coding workflows.
+*Solutions Architect — I turn business problems into delivered solutions before the existing*
+
+I build to unlock capability. Start with a need, then I plan out what it takes to create a resolution. I work to keep things simple without compromising the standard. My projects span real-time data, trading, and simulation systems, **built full-stack using agentic coding workflows**.
 
 **Stack:** Python · JavaScript/TypeScript · Node.js · FastAPI · WebSockets ·
 PostgreSQL · MongoDB · Godot/GDScript · Linux/Ubuntu · pandas/parquet ·
-real-time market data (Databento, CME futures)
+real-time market data (Databento, CME futures) · Zapier · Google Apps Script · 
+· Sheets/Excel
 
 ### Featured projects
 - **Trade Chart** — Real-time futures replay simulator + live monitor. A
@@ -18,6 +21,5 @@ real-time market data (Databento, CME futures)
   Fixed-timestep seeded simulation (multiplayer-ready), ~350 JSON-tunable
   parameters, clean sim/render separation. *GDScript*
 
-*Selected private work:* real-time speech-recognition trading bot (live broadcast
-keyword detection → automated event-market orders); Linux node-operation
-automation with health-check and auto-restart bots.
+*Selected private work:* real-time speech-recognition trading bot (real-time speech recognition → automated action); 
+Linux node-operation automation with health-check and auto-restart bots.
