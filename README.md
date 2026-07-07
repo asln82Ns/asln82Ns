@@ -2,7 +2,7 @@
 
 *Solutions Architect — I turn business problems into delivered solutions*
 
-I build to unlock capability. Start with a need, then I plan out what it takes to create a resolution. I work to keep things simple without compromising the standard. My projects span real-time data, trading, and simulation systems, **built full-stack using agentic coding workflows**.
+I build to unlock capability. Start with a need, then I plan out what it takes to create a resolution. I work to keep things simple without compromising the standard. My personal projects(professional under NDA) span real-time data, trading, and simulation systems, **built full-stack using agentic coding workflows**.
 
 **Stack:** Python · JavaScript/TypeScript · Node.js · FastAPI · WebSockets ·
 PostgreSQL · MongoDB · Godot/GDScript · Linux/Ubuntu · pandas/parquet ·
