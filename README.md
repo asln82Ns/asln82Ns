@@ -1,6 +1,6 @@
 ## Ethan Lawinsky
 
-*Solutions Architect — I turn business problems into delivered solutions before the existing*
+*Solutions Architect — I turn business problems into delivered solutions*
 
 I build to unlock capability. Start with a need, then I plan out what it takes to create a resolution. I work to keep things simple without compromising the standard. My projects span real-time data, trading, and simulation systems, **built full-stack using agentic coding workflows**.
 
